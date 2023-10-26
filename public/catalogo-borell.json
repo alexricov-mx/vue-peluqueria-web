@@ -1,0 +1,52 @@
+[
+    {
+      "nombre": "Folleto Borell",      
+      "imagen": "Folleto Borell_compressed.PNG",
+      "url": "Folleto Borell_compressed.pdf"
+    },
+    {
+      "nombre": "Instructivo Seda Capilar Acido Hialuronico",
+      "imagen": "Instructivo_Seda_Capilar_Acido_Hialuronico.PNG",
+      "url": "Instructivo_Seda_Capilar_Acido_Hialuronico.pdf"
+    },
+    {
+      "nombre": "Instructivo Shampoo Acido Hialuronico",
+      "imagen": "Instructivo_Shampoo_Acido_Hialuronico.PNG",
+      "url": "Instructivo_Shampoo_Acido_Hialuronico.pdf"
+    },
+    {
+      "nombre": "Instructivo Spray Capilar Acido Hialuronico",
+      "imagen": "Instructivo_Spray_Capilar_Acido_Hialuronico.PNG",
+      "url": "Instructivo_Spray_Capilar_Acido_Hialuronico.pdf"
+    },
+    {
+      "nombre": "Instructivo Suero Acido Hialuronico",
+      "imagen": "Instructivo_Suero_Acido_Hialuronico.PNG",
+      "url": "Instructivo_Suero_Acido_Hialuronico.pdf"
+    },
+    {
+      "nombre": "Instructivo Tratamiento Lacio",
+      "imagen": "Instructivo_Tratamiento_Lacio.PNG",
+      "url": "Instructivo_Tratamiento_Lacio.pdf"
+    },
+    {
+      "nombre": "Instructivo Tratamiento Libre De Enjuague",
+      "imagen": "Instructivo_Tratamiento_Libre_De_Enjuague.PNG",
+      "url": "Instructivo_Tratamiento_Libre_De_Enjuague.pdf"
+    },
+    {
+      "nombre": "Instructivo Tratamiento Matiz",
+      "imagen": "Instructivo_Tratamiento_Matiz.PNG",
+      "url": "Instructivo_Tratamiento_Matiz.pdf"
+    },
+    {
+      "nombre": "Instructivo Tratamiento Rizo",
+      "imagen": "Instructivo_Tratamiento_Rizo.PNG",
+      "url": "Instructivo_Tratamiento_Rizo.pdf"
+    },
+    {
+      "nombre": "Tratamiento Intensivo Acido Hialuronico",
+      "imagen": "Tratamiento_Intensivo_Acido_Hialuronico.PNG",
+      "url": "Tratamiento_Intensivo_Acido_Hialuronico.pdf"
+    }
+]
